@@ -1,0 +1,234 @@
+.moreFooter, .shipping2, .today, .titleOff, .img4, .titleSun, .off, .nav-link2, .dropdown-menu, .nav, .shipping {
+  font-family: Montserrat, Tahoma;
+  font-size: 13px;
+}
+
+.btnSum {
+  font-family: "Montserrat" !important;
+  font-weight: 500 !important;
+  border: none;
+  font-size: 15px;
+  line-height: 38px;
+  letter-spacing: 1px;
+  padding: 0 13px;
+  margin-bottom: 10px;
+  margin-left: 13px;
+  margin-right: 13px;
+  text-decoration: none;
+  background-color: rgb(51, 51, 51) !important;
+  color: rgb(255, 255, 255) !important;
+}
+
+.shipping {
+  background-color: rgb(15, 73, 63);
+  color: rgb(255, 255, 255);
+  margin-right: 5px;
+  padding: 5px;
+}
+
+.nav {
+  text-decoration: underline;
+  background-color: transparent;
+  padding: 8px 6px;
+  color: rgb(70, 71, 73);
+}
+
+.dropdown-menu {
+  text-decoration: underline;
+}
+
+.inputSearch {
+  font-size: 13px;
+  height: 44px;
+  background-color: rgb(255, 255, 255);
+}
+
+.searchBtn {
+  background: rgb(59, 83, 67);
+  border: 0;
+  border-radius: 3px;
+  box-shadow: none !important;
+  color: rgb(255, 255, 255);
+  display: inherit;
+  font-size: 16px !important;
+  height: 40px;
+  margin: 0 !important;
+  position: absolute;
+  right: 3px;
+  text-transform: uppercase;
+  top: 3px;
+}
+
+.shoppingBag {
+  font-size: 13px;
+  font-weight: 700;
+  padding: 4px 0 2px 50px;
+  position: static;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+@media (min-width: 851px) {
+  .ShoppingBag_shoppingbag-title {
+    display: inline;
+  }
+}
+
+.center {
+  align-items: center;
+  vertical-align: center;
+}
+
+.nav2 {
+  border-bottom: 2px solid rgb(222, 224, 225);
+}
+
+.nav-link2 {
+  font-size: 16px !important;
+  font-weight: 500 !important;
+  color: rgb(0, 0, 0) !important;
+  font-weight: bold;
+  text--underline: none !important;
+  display: table-cell;
+  height: 50px;
+  padding: 0 10px;
+  width: 120px;
+  vertical-align: middle;
+}
+
+.off {
+  margin-bottom: 0;
+  display: block;
+  -webkit-margin-before: 1em;
+          margin-block-start: 1em;
+  -webkit-margin-after: 1em;
+          margin-block-end: 1em;
+  -webkit-margin-start: 0px;
+          margin-inline-start: 0px;
+  -webkit-margin-end: 0px;
+          margin-inline-end: 0px;
+  text-align: justify;
+  -moz-text-align-last: center;
+       text-align-last: center;
+  font-size: 14px;
+  color: #727272;
+  letter-spacing: 0.5px;
+}
+
+b {
+  color: rgb(70, 71, 73);
+  font-weight: 700;
+}
+
+.titleSun {
+  line-height: 1.2 !important;
+  letter-spacing: 1px !important;
+  font-size: 48px !important;
+  font-weight: 400 !important;
+  color: #1B1E23 !important;
+}
+
+.pad {
+  padding-top: 10%;
+}
+
+.img4 {
+  font-weight: 500;
+  color: #464749;
+  font-size: 16px !important;
+  line-height: 1.4;
+  letter-spacing: 0.5px;
+  text-decoration: underline;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.img2 {
+  font-family: "Montserrat" !important;
+  font-weight: 500 !important;
+  border: none;
+  font-size: 18px;
+  line-height: 38px;
+  letter-spacing: 1px;
+  background-color: #fff;
+  color: #000;
+  padding: 0 13px;
+  margin-bottom: 20px;
+  margin-left: 13px;
+  margin-right: 13px;
+  text-decoration: none;
+  padding-top: -50px;
+  margin-top: -50px;
+}
+
+.icons {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.suggest {
+  text-decoration: none;
+  color: #000;
+}
+
+.discount {
+  background-color: rgb(237, 246, 251);
+}
+
+.titleOff {
+  display: block;
+  font-weight: 700;
+  color: rgb(12, 86, 65);
+  font-size: 45px;
+}
+
+.today {
+  color: rgb(12, 86, 65);
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  line-height: 33.6px;
+}
+
+.moreBtn {
+  background: rgb(59, 83, 67);
+  color: rgb(255, 255, 255);
+}
+
+.shipping2 {
+  line-height: 1.3;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  color: #464749;
+}
+
+.footer {
+  margin-top: 7.5rem;
+}
+
+.moreFooter {
+  margin: 1em 0;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.4;
+  letter-spacing: 0.5px;
+  color: #8d8d8d;
+  padding-bottom: 25px;
+  border-bottom: 2px solid rgb(222, 224, 225);
+}
+
+.fs-8 {
+  font-size: 8px;
+}
+
+@media screen and (max-width: 640px) {
+  .fs-sm-12 {
+    font-size: 10px !important;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .fs-sm-14 {
+    font-size: 13px !important;
+  }
+}/*# sourceMappingURL=base.css.map */
