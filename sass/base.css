@@ -231,4 +231,15 @@ b {
   .fs-sm-14 {
     font-size: 13px !important;
   }
+}
+
+@media screen and (max-width: 640px) {
+  .mt-sm {
+    margin-top: 15px !important;
+  }
+}
+
+.ml-mr-sm {
+  margin-left: 10px !important;
+  margin-right: 10px !important;
 }/*# sourceMappingURL=base.css.map */
